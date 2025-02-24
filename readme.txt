@@ -1,2 +1,1 @@
-This program can be run with jupyter notebook.
-Create a rice_img folder or rename the dataset folder to rice_img to run the program.
+ We classify five rice variants, i.e., Arborio, Basmati, Ipsala, Jasmine and Karacadag,  grown in Turkey. A total of 75,000 grain images, 15,000 from each of these varieties, are included in the dataset. 
